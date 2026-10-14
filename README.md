@@ -7,6 +7,7 @@ Personal study notes for manual QA theory — structured for junior QA interview
 | File | Topic |
 |---|---|
 | [01-sdlc-stlc-testing-basics.md](01-sdlc-stlc-testing-basics.md) | SDLC, STLC, QA vs QC, testing types, Severity vs Priority |
+| [11-test-pyramid-flaky-smoke-regression.md](11-test-pyramid-flaky-smoke-regression.md) | Test Pyramid (70/20/10), Flaky Tests (causes + fixes), Smoke vs Regression |
 
 ## Goal
 
