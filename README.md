@@ -11,6 +11,7 @@ Personal study notes for manual QA theory — structured for junior QA interview
 | [12-stale-element-findElements-driver-lifecycle.md](12-stale-element-findElements-driver-lifecycle.md) | StaleElementReferenceException (cause + fix), FindElement vs FindElements, driver.Quit()+Dispose(), RestClient in OneTimeSetUp |
 | [13-bug-reporting-test-design-http.md](13-bug-reporting-test-design-http.md) | Bug reporting format, Severity vs Priority, Defect Lifecycle, Equivalence Partitioning, BVA, HTTP Methods, Status Codes |
 | [14-common-mistakes-stale-testcase-status-codes.md](14-common-mistakes-stale-testcase-status-codes.md) | StaleElement vs NoSuchElement, [TestCase] correct usage, POST 200 vs 201, RestClient OneTimeSetUp, Severity vs Priority matrix |
+| [15-json-assert-testfixture-headless-ci.md](15-json-assert-testfixture-headless-ci.md) | JObject assert with RestSharp, [TestFixture] purpose, Headless CI debug (timing, viewport, missing file) |
 
 ## Goal
 
